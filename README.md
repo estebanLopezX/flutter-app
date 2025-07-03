@@ -23,5 +23,6 @@ Actualmente el proyecto **no utiliza bases de datos**, sino que gestiona la info
   <img src="https://github.com/user-attachments/assets/8c61d154-d3f6-4787-8985-416a40194d60" width="300"/>
   <img src="https://github.com/user-attachments/assets/689a912a-8584-45d2-b04b-673bfbfd7093" width="300"/>
   <img src="https://github.com/user-attachments/assets/2d6ec0c0-1344-4d51-a992-1e63d5d81b4d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ee980424-cc46-4148-90c8-ba4e1a372868" width="300"/>
   <img src="https://github.com/user-attachments/assets/d1398534-7864-49d5-8a86-e72675ce313f" width="300"/>
 </p>
